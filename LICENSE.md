@@ -1,4 +1,4 @@
-Copyright (C) 2021 Toshiba Corporation
+Copyright (C) 2025 Toshiba Corporation
 
 Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.
 
@@ -9,7 +9,7 @@ TOSHIBA CORPORATION SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LI
 
 This software is based on "parquet_fdw" by the adjust GmbH licensed under the below:
 
-Copyright (c) 2018-2019, adjust GmbH
+Copyright (c) 2018-2025, adjust GmbH
 
 Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.
 
